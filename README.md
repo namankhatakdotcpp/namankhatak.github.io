@@ -6,7 +6,7 @@
 
 ## 🌐 Live Website
 
-🔗 https://namankhatakdotcpp.github.io
+🔗 namankhatak-github-io.vercel.app
 
 ---
 
