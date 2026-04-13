@@ -6,7 +6,7 @@
 
 ## 🌐 Live Website
 
-🔗 namankhatak-github-io.vercel.app
+🔗namankhatak-github-io.vercel.app
 
 ---
 
